@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LHY_Study/Java/Chapter2_Variable_DataType/Chapter2_Variable_DataType.iml" filepath="$PROJECT_DIR$/LHY_Study/Java/Chapter2_Variable_DataType/Chapter2_Variable_DataType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LHY_Study/Java/Chapter3_Operator/Chapter3_Operator.iml" filepath="$PROJECT_DIR$/LHY_Study/Java/Chapter3_Operator/Chapter3_Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LHY_Study/Java/Chapter4_Loop/Chapter4_Loop.iml" filepath="$PROJECT_DIR$/LHY_Study/Java/Chapter4_Loop/Chapter4_Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LHY_Study/Java/Chapter5_Class_Object1/Chapter5_Class_Object1.iml" filepath="$PROJECT_DIR$/LHY_Study/Java/Chapter5_Class_Object1/Chapter5_Class_Object1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LHY_Study/Java/Chapter6_Class_Object2/Chapter6_Class_Object2.iml" filepath="$PROJECT_DIR$/LHY_Study/Java/Chapter6_Class_Object2/Chapter6_Class_Object2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LHY_Study/Java/Chapter8_Inheritance/Chapter8_Inheritance.iml" filepath="$PROJECT_DIR$/LHY_Study/Java/Chapter8_Inheritance/Chapter8_Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/DoovooMangoStudy.iml" filepath="$PROJECT_DIR$/DoovooMangoStudy.iml" />
     </modules>
   </component>
